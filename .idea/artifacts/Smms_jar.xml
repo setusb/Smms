@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Smms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Smms_jar</output-path>
+    <root id="archive" name="Smms.jar">
+      <element id="module-output" name="Smms" />
+      <element id="file-copy" path="$PROJECT_DIR$/smms.yml" />
+    </root>
+  </artifact>
+</component>
